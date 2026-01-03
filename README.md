@@ -1,17 +1,17 @@
-# 🚀 Sales Dashboard (FY 2024–25) | Power BI
+#  Sales Dashboard (FY 2024–25) | Power BI
 
 An interactive **Power BI Sales Dashboard** built to transform raw sales data into clear, actionable business insights.  
 This project focuses on reducing manual reporting and enabling faster, data-driven decision-making.
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 Sales data was scattered across spreadsheets, making analysis time-consuming and inefficient.  
 Generating reports required manual filtering and chart creation, slowing down decision-making and increasing the risk of missed opportunities.
 
 ---
 
-## 💡 Solution
+##  Solution
 I designed an **interactive Power BI dashboard** that consolidates **₹16M sales data** into a single, dynamic view, enabling real-time monitoring of performance across products, brands, regions, and teams.
 
 ---

@@ -44,18 +44,5 @@ I designed an **interactive Power BI dashboard** that consolidates **₹16M sale
 This project reinforced that effective data analytics is not about complexity, but about **clarity and speed in solving real business problems**.  
 As a **Data Science & AI/ML student**, it helped me translate technical skills into meaningful business value.
 
-
-## 📂 Project Structure
-
-Sales-Dashboard-2024-25/
-│── README.md
-│── Sales_Dashboard_Documentation.pdf
-│── dashboard.png
-│── dataset.xlsx
-│── dashboard.pbix
-```
-
----
-
 ## 📬 Feedback
 Suggestions and feedback are always welcome!
